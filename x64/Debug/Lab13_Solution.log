@@ -1,0 +1,3 @@
+﻿  Lab13.cpp
+C:\All Items\GitHub\Lab13\Lab13.cpp(122): warning C4715: 'is_prime_r': not all control paths return a value
+  Lab13_Solution.vcxproj -> C:\All Items\GitHub\Lab13\x64\Debug\Lab13_Solution.exe

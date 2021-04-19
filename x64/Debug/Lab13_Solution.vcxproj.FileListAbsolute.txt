@@ -1,0 +1,2 @@
+C:\All Items\GitHub\Lab13\x64\Debug\Lab13_Solution.exe
+C:\All Items\GitHub\Lab13\x64\Debug\Lab13_Solution.pdb
